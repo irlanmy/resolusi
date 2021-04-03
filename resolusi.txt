@@ -17,3 +17,5 @@ Resolusi mydelvian - 26 Oktober 2020
 15. Belajar Containers (Docker Fundamentals, Docker Cookbook, Kubernetes Cookbook)
 16. Belajar Servers (Nginx Handbook, Apache, Caddy)
 17. Belajar Scalablity (Distributed Systems, System Design Primer, Real World Maintenable Software, The 12 Factor App, Architecting Frontend Projects To Scale)
+18. Belajar Framework (Laravel, Tailwind, Bootstrap, CodeIgniter, Symfony, Yii, CakePHP, Angular, ReactJS, Vue.js, Node.js, Aurelia)
+19. Belajar Preprocessor (Sass, Less, Stylus, PostCSS, Pug, Slim)
